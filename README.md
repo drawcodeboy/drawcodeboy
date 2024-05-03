@@ -3,7 +3,7 @@
 * Studying <b>Medical AI</b>
 
 ## :baby_chick: Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Doby&theme=vue)](https://draw-code-boy.tistory.com)
+<a href="https://draw-code-boy.tistory.com/"><img src="https://img.shields.io/badge/Doby's Lab-F36D5D?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 
 ## :baby_chick: PS
 * Solved.ac: <b>[20rnjsekdns](https://solved.ac/profile/20rnjsekdns)</b>
