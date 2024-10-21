@@ -3,13 +3,14 @@
 * Currently, I'm interested in <b>Explainable AI(XAI), Anomaly Detection, Multimodal Fusion</b>.
 * * *
 ### 🦾 History
+* CVML Lab (University of Ulsan)
+  * Research collaboration with Asan Medical Center (2024.05-Present)
+
 * <a href="https://deepdaiv.oopy.io/">deep daiv.</a>
   * '24 Spring Challenge, Team Medical AI - Mentor (2024.04-2024.07)
   * '24 Winter Challenge, Team Medical AI - Member (2024.02-2024.04)
   * '23 Summer Challenge, Team Medical AI - Member (2023.08-2023.10)
 
-* Computer Vision Lab (University of Ulsan)
-  * Research collaboration with Asan Medical Center (2024.05-Present)
 * * *
 ### 📂 Research Archive
 * (2024.04) <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11758380">U-Net 기반 아키텍처를 활용한 울혈성 심부전 환자 폐부종 진단 방법론 연구</a>, 한국정보통신학회논문지 제28권 제4호
