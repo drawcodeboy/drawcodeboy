@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Doby 
 * Studying <b>Medical AI</b>
-* Currently, I'm interested in <b>Explainable AI(XAI), Anomaly Detection, Multimodal Fusion</b>.
+* Currently, I'm interested in <b>Medical AI, Explainable AI(XAI), Anomaly Detection, Multimodal Fusion, Generative Models</b>.
 * * *
 ### 🦾 History
 * CVML Lab (University of Ulsan)
