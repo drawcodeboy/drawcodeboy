@@ -6,7 +6,7 @@
 * CVML Lab (University of Ulsan)
   * Research collaboration with Asan Medical Center (2024.05-Present)
 
-* <a href="https://deepdaiv.oopy.io/">deep daiv.</a>
+* <a href="https://deepdaiv.oopy.io/">deep daiv.</a> (2023.08-2024.07)
   * '24 Spring Challenge, Team Medical AI - Mentor (2024.04-2024.07)
   * '24 Winter Challenge, Team Medical AI - Member (2024.02-2024.04)
   * '23 Summer Challenge, Team Medical AI - Member (2023.08-2023.10)
