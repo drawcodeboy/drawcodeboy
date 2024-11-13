@@ -3,10 +3,10 @@
 * Currently, I'm interested in <b>Medical AI, Explainable AI(XAI)</b>.
 * * *
 ### 🦾 History
-* <i><b>CVML Lab</b></i>
+* <b>CVML Lab</b>
   * Research collaboration with Asan Medical Center (2024.05-Present)
 
-* <i><b><a href="https://deepdaiv.oopy.io/">deep daiv.</a></b></i>
+* <b><a href="https://deepdaiv.oopy.io/">deep daiv.</a></b>
   * '24 Spring Challenge, Team Medical AI - Mentor (2024.04-2024.07)
   * '24 Winter Challenge, Team Medical AI - Member (2024.02-2024.04)
   * '23 Summer Challenge, Team Medical AI - Member (2023.08-2023.10)
