@@ -3,7 +3,7 @@
 * Currently, I'm interested in <b>Medical AI, Explainable AI(XAI)</b>.
 * * *
 ### 🦾 History
-* CVML Lab (University of Ulsan)
+* CVML Lab (2024.05-Present)
   * Research collaboration with Asan Medical Center (2024.05-Present)
 
 * <a href="https://deepdaiv.oopy.io/">deep daiv.</a> (2023.08-2024.07)
