@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Doby 
 * Studying <b>Medical AI</b>
-* Currently, I'm interested in <b>Medical AI, Explainable AI(XAI)</b>.
+* Currently, I'm interested in <b>Medical AI, Explainable AI(XAI), Generative AI(Probabilistic Model like Diffusion)</b>.
 * * *
 ### 🦾 History
 * <b>CVML Lab</b>
