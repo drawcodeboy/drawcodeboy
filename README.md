@@ -11,6 +11,8 @@
   * '24 Winter Challenge, Team Medical AI - Member (2024.02-2024.04)
   * '23 Summer Challenge, Team Medical AI - Member (2023.08-2023.10)
 
+* <b>Bachelor</b>
+  * Department of IT Convergence, University of Ulsan (2020.03-Present)
 * * *
 ### 📂 Publications
 * (2024.XX) SRL-AE: ECG 데이터 이상치 탐지에 강인한 오토인코더 알고리즘, 2024년도 대한전자공학회 추계학술대회 논문집
