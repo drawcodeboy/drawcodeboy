@@ -3,8 +3,12 @@
 * Currently, I'm interested in <b>Medical AI, Explainable AI(XAI), Generative AI(Probabilistic Model like Diffusion)</b>.
 * * *
 ### 🦾 History
+* <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
+  * 2025 Winter Research Trainee (plan, 2025.01-Present)
+
 * <b>CVML Lab</b>
-  * Research collaboration with Asan Medical Center (2024.05-Present)
+  * Research collaboration with Asan Medical Center (plan, 2025.03)
+  * Scoliosis Segmentation Research collaboration with Asan Medical Center (2024.05-2024.12)
 
 * <b><a href="https://deepdaiv.oopy.io/">deep daiv.</a></b>
   * '24 Spring Challenge, Team Medical AI - Mentor (2024.04-2024.07)
