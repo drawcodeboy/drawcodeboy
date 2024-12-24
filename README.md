@@ -4,10 +4,10 @@
 * * *
 ### 🦾 History
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
-  * 2025 Winter Research Trainee (plan, 2025.01-Present)
+  * 2025 Winter Research Trainee (2025.01-Present)
 
 * <b>CVML Lab</b>
-  * Research collaboration with Asan Medical Center (plan, 2025.03)
+  * New Research collaboration with Asan Medical Center (plan, 2025.03)
   * Scoliosis Segmentation Research collaboration with Asan Medical Center (2024.05-2024.12)
 
 * <b><a href="https://deepdaiv.oopy.io/">deep daiv.</a></b>
