@@ -2,11 +2,15 @@
 * Studying <b>Medical AI</b>
 * Currently, I'm interested in <b>Medical AI, Explainable AI(XAI), Generative AI(Probabilistic Model like Diffusion)</b>.
 * * *
+### 👨‍🎓 Degree
+* <b>B.S.</b>
+  * Department of IT Convergence, University of Ulsan (2020.03-Present)
+* * *
 ### 🦾 History
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
   * 2025 Winter Research Trainee (2025.01-Present)
 
-* <b>CVML Lab</b>
+* <b>CVML Lab @University of Ulsan</b>
   * New Research collaboration with Asan Medical Center (plan, 2025.03)
   * Scoliosis Segmentation Research collaboration with Asan Medical Center (2024.05-2024.12)
 
@@ -15,8 +19,6 @@
   * '24 Winter Challenge, Team Medical AI - Member (2024.02-2024.04)
   * '23 Summer Challenge, Team Medical AI - Member (2023.08-2023.10)
 
-* <b>Bachelor</b>
-  * Department of IT Convergence, University of Ulsan (2020.03-Present)
 * * *
 ### 📂 Publications
 * (2024.XX) SRL-AE: ECG 데이터 이상치 탐지에 강인한 오토인코더 알고리즘, 2024년도 대한전자공학회 추계학술대회 논문집 <b>(Accepted, but not published yet)</b>
