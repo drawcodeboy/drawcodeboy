@@ -1,6 +1,7 @@
 ### 👋 Hi! I'm Doby 
-* Studying <b>Medical AI</b>
-* Currently, I'm interested in <b>Medical AI, Explainable AI(XAI), Generative AI(Probabilistic Model like Diffusion)</b>.
+* I'm <b>Medical AI Researcher & Engineer</b>
+* Currently, I'm interested in <b>Medical AI, XAI, Generative AI</b>.
+* Contact Me : dobylive01@gmail.com
 * * *
 ### 👨‍🎓 Degree
 * <b>B.S.</b>
@@ -27,13 +28,35 @@
 * * *
 
 ### Tech Stacks
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  </a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white">  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+</p>
 
 * * *
 ### 🏠 Blog
+<div align="center">
 <a href="https://draw-code-boy.tistory.com/"><img src="https://img.shields.io/badge/Doby's Lab-F36D5D?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+</div>
+ 
 * * *
-### 💻 Algorithm Problem Solving
-* BOJ: <b>[20rnjsekdns](https://www.acmicpc.net/user/20rnjsekdns)</b>
-
+### 💻 Algorithm Problem Solving (BOJ)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20rnjsekdns)
