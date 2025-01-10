@@ -1,13 +1,14 @@
 ### 👋 Hi! I'm Doby 
-* I'm <b>Medical AI Researcher & Engineer</b>
-* Currently, I'm interested in <b>Medical AI, XAI, Generative AI</b>.
-* Contact Me : dobylive01@gmail.com
+* 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=%EA%B6%8C%EB%8B%A4%EC%9A%B4&hl=ko&oi=ao"><b>Medical AI Researcher & Engineer</b></a>
+* 😆 Currently, I'm interested in <b>Medical AI, XAI, Generative AI</b>.
+* 🏠 My Blog, <b><a href="https://draw-code-boy.tistory.com/">Doby's Lab</a></b>! Usually, AI-related concepts, development-related issues, and memoirs.
+* 📞 Contact Me : dobylive01@gmail.com
 * * *
 ### 👨‍🎓 Degree
 * <b>B.S.</b>
   * Department of IT Convergence, University of Ulsan (2020.03-Present)
 * * *
-### 🦾 History
+### ⏳ History
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
   * 2025 Winter Research Trainee (2025.01-Present)
 
@@ -21,13 +22,13 @@
   * '23 Summer Challenge, Team Medical AI - <i>Member</i> (2023.08-2023.10)
 
 * * *
-### 📂 Publications
+### 📃 Publications
 * (2024.XX) SRL-AE: ECG 데이터 이상치 탐지에 강인한 오토인코더 알고리즘, 2024년도 대한전자공학회 추계학술대회 논문집 <b>(Accepted, but not published yet)</b>
 * 권다운. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11758380">"U-Net 기반 아키텍처를 활용한 울혈성 심부전 환자 폐부종 진단 방법론 연구."</a> <i>Journal of the Korea Institute of Information & Communication Engineering</i> 28.4 (2024).
 * 권다운, 장소현, 권보영, 박준영. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667724">"머신러닝을 활용한 당뇨병 환자의 관상 동맥 질환 모델 개발."</a> <i>한국통신학회 학술대회논문집</i> (2023): 1101-1102.
 * * *
 
-### Tech Stacks
+### 🦾 Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,11 +53,7 @@
 </p>
 
 * * *
-### 🏠 Blog
-<div align="center">
-<a href="https://draw-code-boy.tistory.com/"><img src="https://img.shields.io/badge/Doby's Lab-F36D5D?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
-</div>
- 
-* * *
 ### 💻 Algorithm Problem Solving (BOJ)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20rnjsekdns)
+<p align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20rnjsekdns">
+</p>
