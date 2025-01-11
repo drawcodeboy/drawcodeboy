@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=CMake&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 </p>
 
 <p align="center">
@@ -49,7 +49,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> 
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">  <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white">
 </p>
 
 * * *
