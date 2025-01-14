@@ -8,7 +8,7 @@
 * <b>B.S.</b>
   * Department of IT Convergence, University of Ulsan (2020.03-Present)
 * * *
-### ⏳ History
+### ⏳ Experience
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
   * 2025 Winter Research Trainee (2025.01-Present)
 
