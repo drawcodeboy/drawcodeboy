@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Doby 
 * 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>Medical AI Researcher & Engineer</b></a>
-* 😆 Currently, I'm interested in <b>Medical AI, XAI, Generative AI, C++-based Applications</b>.
+* 😆 Currently, I'm interested in <b>Medical AI, XAI, Generative AI, C++ based Applications</b>.
 * 🏠 My Blog, <b><a href="https://draw-code-boy.tistory.com/">Doby's Lab</a></b>! Usually, AI-related concepts, development-related issues, and memoirs.
 * 📞 Contact Me : dobylive01@gmail.com
 * * *
