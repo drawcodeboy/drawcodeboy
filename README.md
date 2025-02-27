@@ -9,13 +9,15 @@
   * Department of IT Convergence, University of Ulsan (2020.03-Present)
 * * *
 ### ⏳ Experience
-* <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
-  * 2025 Winter Research Trainee (2025.01-Present)
-
 * <b>CVML Lab @University of Ulsan</b>
   * New Research collaboration with Asan Medical Center (plan, 2025.03)
   * Scoliosis Segmentation Research collaboration with Asan Medical Center (2024.05-2024.12)
 
+* <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
+  * 2025 Winter Research Trainee (2025.01-2025.02)
+  * Performance analysis and benchmarking of large-scale data visualization tools (ParaView, VisIT, Omniverse)
+  * Exploration and summary of Physical-informed Neural Network and 3D Gaussian Splatting
+ 
 * <b><a href="https://deepdaiv.oopy.io/">deep daiv.</a></b>
   * '24 Spring Challenge, Team Medical AI - <i>Mentor</i> (2024.04-2024.07)
   * '24 Winter Challenge, Team Medical AI - <i>Member</i> (2024.02-2024.04)
