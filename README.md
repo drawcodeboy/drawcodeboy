@@ -14,7 +14,7 @@
   * Scoliosis Segmentation Research collaboration with Asan Medical Center (2024.05-2024.12)
 
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
-  * 2025 Winter Research Trainee (2025.01-2025.02)
+  * 2025 Winter Research Internship (2025.01-2025.02)
   * Performance analysis and benchmarking of large-scale data visualization tools (ParaView, VisIT, Omniverse)
   * Exploration and summary of Physical-informed Neural Network and 3D Gaussian Splatting
  
