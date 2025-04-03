@@ -10,7 +10,7 @@
 * * *
 ### ⏳ Experience
 * <b>CVML Lab @University of Ulsan</b>
-  * New Research collaboration with Asan Medical Center (2025.03-Present)
+  * Cerebral Infraction Research collaboration with Ulsan University Hospital (2025.03-Present)
   * Scoliosis Segmentation Research collaboration with Asan Medical Center (2024.05-2024.12)
 
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
