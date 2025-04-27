@@ -26,7 +26,7 @@
 * * *
 ### 📃 Publications
 #### 💡 Journals
-* Soon.
+* Dae Hwan Kim, Sehan Park, <ins>Da Woon Kwon</ins>, Choon Sun Lee, Dong-Ho Lee, Jae Hwan Cho, Chang Ju Hwang. "Classification of Adolescent Idiopathic Scoliosis Curvature Using Contrastive Clustering." <i>SPINE</i> (Accepted, but not published yet)
 
 #### 💡 Conferences
 * Soon.
