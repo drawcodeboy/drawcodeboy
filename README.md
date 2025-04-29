@@ -15,8 +15,6 @@
 
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
   * 2025 Winter Research Internship (2025.01-2025.02)
-  * Performance analysis and benchmarking of large-scale data visualization tools (ParaView, VisIT, Omniverse)
-  * Exploration and summary of Physical-informed Neural Network and 3D Gaussian Splatting
  
 * <b><a href="https://deepdaiv.oopy.io/">deep daiv.</a></b>
   * '24 Spring Challenge, Team Medical AI - <i>Mentor</i> (2024.04-2024.07)
