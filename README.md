@@ -25,7 +25,7 @@
 ### 📃 Publications
 > <i>APA Format + Author Contributions</i>
 #### 💡 Journals
-* DH Kim, SH Park, <ins>DW Kwon</ins>, CS Lee, DH Lee, JH Cho, CJ Hwang. "Classification of Adolescent Idiopathic Scoliosis Curvature Using Contrastive Clustering." <i>Spine</i> (Accepted, but not published yet)
+* DH Kim, SH Park, <ins>DW Kwon</ins>, CS Lee, DH Lee, JH Cho, CJ Hwang. <a href="https://journals.lww.com/spinejournal/abstract/9900/classification_of_adolescent_idiopathic_scoliosis.1026.aspx">Classification of Adolescent Idiopathic Scoliosis Curvature Using Contrastive Clustering.</a> <i>Spine</i> (Published, but it's not final form.)
 
 #### 💡 Conferences
 * Soon.
