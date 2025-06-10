@@ -6,7 +6,7 @@
 * * *
 ### 👨‍🎓 Degree
 * <b>B.S.</b>
-  * Department of IT Convergence, University of Ulsan (2020.03-Present)
+  * School of IT Convergence, University of Ulsan (2020.03-Present)
 * * *
 ### ⏳ Experience
 * <b>CVML Lab @University of Ulsan</b>
