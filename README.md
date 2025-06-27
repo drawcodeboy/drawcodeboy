@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 </p>
 
 <p align="center">
