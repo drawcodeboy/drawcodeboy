@@ -40,8 +40,8 @@
 * * *
 
 ### 🏆 Awards
-* 캡스톤 디자인, 논문 분야 - 최우수상(1등, 1st Prize 🥇)
-* 캡스톤 디자인, 졸업 작품 분야 - 최우수상(2등, 2nd Prize 🥈)
+* <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인, 논문 분야</a> - <b>최우수상(1등, 1st Prize 🥇)</b>
+* <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인, 졸업 작품 분야</a> - <b>최우수상(2등, 2nd Prize 🥈)</b>
 
 * * *
 
