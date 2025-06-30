@@ -39,6 +39,11 @@
 * <ins>권다운<sup>1</sup></ins>, 장소현<sup>1</sup>, 권보영<sup>1</sup>, 박준영<sup>*</sup>. (2023). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667724">머신러닝을 활용한 당뇨병 환자의 관상 동맥 질환 모델 개발</a>. <i>한국통신학회 학술대회논문집</i>, 1101-1102.
 * * *
 
+* * *
+### 🏆 Awards
+* 캡스톤 디자인, 논문 분야 - 최우수상(1등, 1st Prize 🥇)
+* 캡스톤 디자인, 졸업 작품 분야 - 최우수상(2등, 2nd Prize 🥈)
+
 ### 🦾 Tech Stacks
 
 <p align="center">
