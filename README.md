@@ -40,8 +40,9 @@
 * * *
 
 ### 🏆 Awards
-* <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인, 논문 분야</a> - <b>최우수상(1등, 1st Prize 🥇)</b>
-* <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인, 졸업 작품 분야</a> - <b>최우수상(2등, 2nd Prize 🥈)</b>
+* 2025 괌 SW 단기 연수 해커톤 경진대회 - <b>최우수상(2등, 2nd Prize 🥈)</b>
+* <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인 경진대회, 논문 분야</a> - <b>최우수상(1등, 1st Prize 🥇)</b>
+* <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인 경진대회, 졸업 작품 분야</a> - <b>최우수상(2등, 2nd Prize 🥈)</b>
 
 * * *
 
