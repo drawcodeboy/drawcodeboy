@@ -13,6 +13,8 @@
   * Cerebral Infraction, Early Neurological Deterioration Research collaboration with Ulsan University Hospital (2025.03-Present)
   * Adolscent Idiopathic Scoliosis Clustering Research collaboration with Asan Medical Center (2024.05-2024.12)
 
+* Guam Software Engineering Short-Term Training (2025.06.30-2025.07.04, 5 days)
+
 * <b><a href="https://www.etri.re.kr/intro.html">ETRI</a></b>
   * 2025 Winter Research Internship (2025.01-2025.02)
  
