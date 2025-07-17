@@ -33,7 +33,7 @@
 * Soon.
 
 #### 💡 Domestic Journals
-* Kim, H. D.<sup>1</sup>, Kim, M. G.<sup>1</sup>, Kim, J.<sup>1</sup>, <ins>Kwon, D. W.</ins><sup>2</sup>, Jo, D.<sup>\*</sup>, Kim, D.<sup>\*</sup> (2025). <a href="https://koreascience.kr/article/JAKO202519236007170.page">Welding Bead Estimation with a Conditional Diffusion-based Generative Model for Constructing a VR Training Simulator</a>. Journal of information and communication convergence engineering, 23(2), 144-153.
+* Kim, H. D.<sup>1</sup>, Kim, M. G.<sup>1</sup>, Kim, J.<sup>1</sup>, <ins>Kwon, D. W.</ins><sup>2</sup>, Jo, D.<sup>\*</sup>, Kim, D.<sup>\*</sup> (2025). <a href="https://koreascience.kr/article/JAKO202519236007170.page">Welding Bead Estimation with a Conditional Diffusion-based Generative Model for Constructing a VR Training Simulator</a>. <i>Journal of information and communication convergence engineering</i>, 23(2), 144-153.
 * <ins>권다운<sup>*<sup></ins>. (2024). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11758380">U-Net 기반 아키텍처를 활용한 울혈성 심부전 환자 폐부종 진단 방법론 연구</a>. <i>Journal of the Korea Institute of Information & Communication Engineering</i>, 28(4).
 
 #### 💡 Domestic Conferences
