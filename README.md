@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Doby 
 * 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>Medical AI Researcher & Engineer</b></a>
-* 😆 Currently, I'm interested in <b>Medical AI, and Disentangled Representation Learning</b>.
+* 😆 Currently, I'm interested in <b>Medical AI, Disentangled Representation Learning, and Counterfactual Generation</b>.
 * 📞 Contact Me : dobylive01@gmail.com
 * * *
 ### 👨‍🎓 Degree
