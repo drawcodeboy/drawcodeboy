@@ -36,12 +36,14 @@
 * <ins>권다운<sup>*<sup></ins>. (2024). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11758380">U-Net 기반 아키텍처를 활용한 울혈성 심부전 환자 폐부종 진단 방법론 연구</a>. <i>Journal of the Korea Institute of Information & Communication Engineering</i>, 28(4).
 
 #### 💡 Domestic Conferences
+* <ins>권다운<sup>1</sup></ins>, 김민규<sup>2</sup>, 김대환<sup>2,*</sup>. (2023). <a href="">BeVe-VAE: 벡터 직교성 규제를 통한 분리 표현 학습</a>. <i>한국정보통신학회 학술대회논문집</i>, in Press.
 * <ins>Dawoon Kwon<sup>1</sup></ins>, Daehwan Kim<sup>*</sup>. (2025). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12293047">AlCheNet: A Pathology-informed Graph Representation of Channel-wise EEG for Alzheimer’s Disease Classification</a>. <i>International Conference on Future Information & Communication Engineering</i>. 84-88
 * <ins>권다운<sup>1</sup></ins>, 김대환<sup>*</sup>. (2024). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036320">SRL-AE: ECG 데이터 이상치 탐지에 강인한 오토인코더 알고리즘</a>. <i>대한전자공학회 학술대회</i>, 647-651.
 * <ins>권다운<sup>1</sup></ins>, 장소현<sup>1</sup>, 권보영<sup>1</sup>, 박준영<sup>*</sup>. (2023). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667724">머신러닝을 활용한 당뇨병 환자의 관상 동맥 질환 모델 개발</a>. <i>한국통신학회 학술대회논문집</i>, 1101-1102.
 * * *
 
 ### 🏆 Awards
+* 2025 제58회 한국정보통신학회 추계종합학술대회, 우수논문상
 * 2025 괌 SW 단기 연수 해커톤 경진대회 - <b>최우수상(2등, 2nd Prize 🥈)</b>
 * <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인 경진대회, 논문 분야</a> - <b>최우수상(1등, 1st Prize 🥇)</b>
 * <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인 경진대회, 졸업 작품 분야</a> - <b>최우수상(2등, 2nd Prize 🥈)</b>
