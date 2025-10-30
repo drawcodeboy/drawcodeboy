@@ -43,7 +43,7 @@
 * * *
 
 ### 🏆 Awards
-* 2025 제58회 한국정보통신학회 추계종합학술대회, 우수논문상
+* <a href="https://kiice.org/conference/2025kiice/static/487">2025 제58회 한국정보통신학회 추계종합학술대회</a>, <b>우수논문상</a>
 * 2025 괌 SW 단기 연수 해커톤 경진대회 - <b>최우수상(2등, 2nd Prize 🥈)</b>
 * <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인 경진대회, 논문 분야</a> - <b>최우수상(1등, 1st Prize 🥇)</b>
 * <a href="https://cicweb.ulsan.ac.kr/cicweb/1024?action=view&no=267454">2025 울산대학교 캡스톤 디자인 경진대회, 졸업 작품 분야</a> - <b>최우수상(2등, 2nd Prize 🥈)</b>
