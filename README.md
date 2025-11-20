@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Doby 
-* 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>AI Researcher & Engineer</b></a>
+* 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>AI Researcher & Engineer (Google Scholar)</b></a>
 * 😆 Currently, I'm interested in <b>Generative Models, Variational Inference, Disentangled Representation Learning, and Medical AI</b>.
 * 📞 Contact Me : dobylive01@gmail.com
 * * *
