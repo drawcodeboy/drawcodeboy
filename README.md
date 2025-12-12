@@ -5,11 +5,11 @@
 * * *
 ### 👨‍🎓 Degree
 * <b>B.S.</b>
-  * School of IT Convergence, University of Ulsan (2020.03-Present)
+  * School of IT Convergence, University of Ulsan (2020.03-2026.02)
 * * *
 ### ⏳ Experience
 * <b>CVML Lab @University of Ulsan</b>
-  * Cerebral Infraction, Early Neurological Deterioration Research collaboration with Ulsan University Hospital (2025.03-Present)
+  * Cerebral Infraction, Early Neurological Deterioration Research collaboration with Ulsan University Hospital (2025.03-2025.12)
   * Adolscent Idiopathic Scoliosis Clustering Research collaboration with Asan Medical Center (2024.05-2024.12)
 
 * Guam Software Engineering Short-Term Training (2025.06.30-2025.07.04, 5 days)
