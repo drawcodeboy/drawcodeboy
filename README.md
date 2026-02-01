@@ -2,6 +2,7 @@
 * 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>AI Researcher & Engineer (Google Scholar)</b></a>
 * 😆 Currently, I'm interested in <b>Generative Models, Disentangled Representation Learning, and Medical AI</b>.
 * 📞 Contact Me : dobylive01@gmail.com
+* ⭐ You can find more information in my <a href="https://drawcodeboy.github.io/">website</a>!
 * * *
 ### 👨‍🎓 Degree
 * <b>B.S.</b>
