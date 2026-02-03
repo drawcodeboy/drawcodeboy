@@ -9,6 +9,9 @@
   * School of IT Convergence, University of Ulsan (2020.03-2026.02)
 * * *
 ### ⏳ Experience
+* <b>LAIT @UNIST</b>
+  * Intern (2026.01-Present)
+
 * <b>CVML Lab @University of Ulsan</b>
   * Cerebral Infraction, Early Neurological Deterioration Research collaboration with Ulsan University Hospital (2025.03-2025.12)
   * Adolscent Idiopathic Scoliosis Clustering Research collaboration with Asan Medical Center (2024.05-2024.12)
