@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Doby 
 * 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>AI Researcher & Engineer (Google Scholar)</b></a>
-* 😆 Currently, I'm interested in <b>Multi-modal Representation Learning(such as ImageBind), Disentangled Representation Learning, and Medical AI</b>.
+* 😆 Currently, I'm interested in <b>Medical AI & Physical AI</b>.
 * 📞 Contact Me : dobylive01@gmail.com
 * ⭐ You can find more information in my <a href="https://drawcodeboy.github.io/">website</a>!
 * * *
