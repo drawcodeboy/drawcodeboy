@@ -1,12 +1,14 @@
-### 👋 Hi! I'm Doby 
+### 👋 Hi! I'm Dawoon Kwon
 * 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>AI Researcher & Engineer (Google Scholar)</b></a>
 * 😆 Currently, I'm interested in <b>Medical AI & Physical AI</b>.
 * 📞 Contact Me : dobylive01@gmail.com
 * ⭐ You can find more information in my <a href="https://drawcodeboy.github.io/">website</a>!
 * * *
-### 👨‍🎓 Degree
-* <b>B.S.</b>
-  * School of IT Convergence, University of Ulsan (2020.03-2026.02)
+### 👨‍🎓 Education
+* <b>M.S. in Artificial Intelligence</b>
+  * Artificial Intelligence Graduate School, UNIST (2026.08–Present)
+* <b>B.S. in IT Convergence</b>
+  * University of Ulsan (2020.03–2026.02)
 * * *
 ### ⏳ Experience
 * <b>LAIT @UNIST</b>
