@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Dawoon Kwon
 * 👨‍⚕️ I'm <a href="https://scholar.google.com/citations?hl=ko&user=tM0RZ1UAAAAJ"><b>AI Researcher & Engineer (Google Scholar)</b></a>
-* 😆 Currently, I'm interested in <b>Medical AI & Physical AI</b>.
+* 😆 Currently, I'm interested in <b>Representation Learning</b>.
 * 📞 Contact Me : dobylive01@gmail.com
 * ⭐ You can find more information in my <a href="https://drawcodeboy.github.io/">website</a>!
 * * *
@@ -12,7 +12,7 @@
 * * *
 ### ⏳ Experience
 * <b>LAIT @UNIST</b>
-  * Multi-modal Representation Learning (2026.01-Present)
+  * Taxonomy-aware Representation Learning (2026.04-Present)
 
 * <b>CVML Lab @University of Ulsan</b>
   * Cerebral Infraction, Early Neurological Deterioration Research collaboration with Ulsan University Hospital (2025.03-2025.12)
