@@ -5,14 +5,10 @@
 * ⭐ You can find more information in my <a href="https://drawcodeboy.github.io/">website</a>!
 * * *
 ### 👨‍🎓 Education
-* <b>M.S. in Artificial Intelligence</b>
-  * Artificial Intelligence Graduate School, UNIST (2026.08–Present)
 * <b>B.S. in IT Convergence</b>
   * University of Ulsan (2020.03–2026.02)
 * * *
 ### ⏳ Experience
-* <b>LAIT @UNIST</b>
-  * Taxonomy-aware Representation Learning (2026.04-Present)
 
 * <b>CVML Lab @University of Ulsan</b>
   * Cerebral Infraction, Early Neurological Deterioration Research collaboration with Ulsan University Hospital (2025.03-2025.12)
